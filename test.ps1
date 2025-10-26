@@ -16,4 +16,5 @@ $ascii = @'
 '@
 
 Write-Host $ascii -ForegroundColor Cyan
-Write-Host "`nWelcome to PowerShell ASCII demo!" -ForegroundColor Yellow
+Write-Host "`nWelcome to Elaris.tech!" -ForegroundColor Yellow
+
